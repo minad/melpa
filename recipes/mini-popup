@@ -1,0 +1,3 @@
+(mini-popup
+ :repo "minad/mini-popup"
+ :fetcher github)
